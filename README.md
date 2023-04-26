@@ -1,4 +1,4 @@
-# wa-chatGPTbot
+# wa-chat bot
 Hi, I m currently working on Chatgpt bots 
 You can follow the steps in given video to make chatgpt bot 
 it's very easy process.
